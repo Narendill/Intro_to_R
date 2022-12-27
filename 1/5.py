@@ -16,3 +16,4 @@ y2 = int(input('y2: '))
 
 dist = round(((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5, 2)
 print(f'dist = {dist}')
+
